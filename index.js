@@ -6,3 +6,5 @@ function destructivelyAppendKitten(name){
   kittens.push();
   return kittens;
 }
+
+destructivelyAppendKitten('Ralph');
